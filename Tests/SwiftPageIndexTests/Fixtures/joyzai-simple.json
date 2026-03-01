@@ -1,0 +1,348 @@
+{
+  "doc_name": "joyzai-simple",
+  "structure": [
+    {
+      "node_id": "0040",
+      "title": "JoyzAI - Custom AI Chatbot Platform",
+      "summary": "Deploy a custom AI chatbot that delivers short, accurate answers instantly and gets smarter with every interaction.",
+      "start_index": 1,
+      "end_index": 167,
+      "nodes": [
+        {
+          "node_id": "0000",
+          "title": "What is JoyzAI Custom AI Chatbot?",
+          "summary": "You're probably stuck in the following situations: - Your inbox is flooded with customer queries - You're still using boring Google Forms to capture your leads - Your agents are spending a majority of their time on irrelevant queries - You're losing leads because your team cannot be available during non-working hours",
+          "start_index": 5,
+          "end_index": 5,
+          "nodes": []
+        },
+        {
+          "node_id": "0001",
+          "title": "Enter JoyzAI, a custom AI chatbot",
+          "summary": "Here's what it can do: - Handle unlimited customer queries, 24x7 - Deliver expert-level answers on your business - Deploy on Website, WhatsApp, Instagram, and more - Multilingual, accurate, personalized answers - Human-like responses with real-time resolution",
+          "start_index": 14,
+          "end_index": 14,
+          "nodes": []
+        },
+        {
+          "node_id": "0008",
+          "title": "How Our Custom AI Chatbot Helps Business",
+          "summary": "Built to reduce workload, improve response time, and scale support effortlessly.",
+          "start_index": 24,
+          "end_index": 58,
+          "nodes": [
+            {
+              "node_id": "0002",
+              "title": "Always-On Customer Support",
+              "summary": "- Handles high volumes of queries 24/7 - Eliminates wait times and missed leads - Frees human agents for complex issues",
+              "start_index": 28,
+              "end_index": 28,
+              "nodes": []
+            },
+            {
+              "node_id": "0003",
+              "title": "Multilingual Conversations",
+              "summary": "- Automatically detects customer language - Responds fluently and naturally - Improves global customer experience",
+              "start_index": 34,
+              "end_index": 34,
+              "nodes": []
+            },
+            {
+              "node_id": "0004",
+              "title": "Action-Driven AI Workflows",
+              "summary": "- Understands real customer intent - Connects with your internal systems - Executes tasks, not just answers questions",
+              "start_index": 40,
+              "end_index": 40,
+              "nodes": []
+            },
+            {
+              "node_id": "0005",
+              "title": "Scale Without Expanding Your Team",
+              "summary": "- Manages growing query volumes effortlessly - Reduces dependency on manual support - Maintains consistent service quality",
+              "start_index": 46,
+              "end_index": 46,
+              "nodes": []
+            },
+            {
+              "node_id": "0006",
+              "title": "Instant, No-Code Deployment",
+              "summary": "- No APIs or technical setup required - Add your business information - Go live within minutes",
+              "start_index": 52,
+              "end_index": 52,
+              "nodes": []
+            },
+            {
+              "node_id": "0007",
+              "title": "Continuous Learning & Improvement",
+              "summary": "- Centralized conversation dashboard - Identify answered and unanswered queries - Train the AI to improve future responses",
+              "start_index": 58,
+              "end_index": 58,
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "node_id": "0013",
+          "title": "Discover the Platform",
+          "summary": "Smart features designed right for you:",
+          "start_index": 64,
+          "end_index": 77,
+          "nodes": [
+            {
+              "node_id": "0009",
+              "title": "Instant AI Replies",
+              "summary": "Gets the query, searches your data, and gives accurate answers - instantly.",
+              "start_index": 68,
+              "end_index": 68,
+              "nodes": []
+            },
+            {
+              "node_id": "0010",
+              "title": "Intent-Based Workflows",
+              "summary": "Detects the intent of the user and completes the tasks using APIs.",
+              "start_index": 71,
+              "end_index": 71,
+              "nodes": []
+            },
+            {
+              "node_id": "0011",
+              "title": "Unanswered Questions",
+              "summary": "Automate 80% of your queries by adding the answers as you go.",
+              "start_index": 74,
+              "end_index": 74,
+              "nodes": []
+            },
+            {
+              "node_id": "0012",
+              "title": "Multi-channel Integrations",
+              "summary": "One chatbot that works across your Website, WhatsApp, and Apps.",
+              "start_index": 77,
+              "end_index": 77,
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "node_id": "0023",
+          "title": "Why Choose JoyzAI?",
+          "summary": "There are so many support chatbots available in the market. Why us?",
+          "start_index": 80,
+          "end_index": 108,
+          "nodes": [
+            {
+              "node_id": "0014",
+              "title": "24/7 Live AI Assistant",
+              "summary": "Replies instantly to incoming WhatsApp messages, even after business hours. Your business stays active 24/7 with an AI agent.",
+              "start_index": 84,
+              "end_index": 84,
+              "nodes": []
+            },
+            {
+              "node_id": "0015",
+              "title": "Multilingual Support",
+              "summary": "The AI chatbot understands the user's language and responds fluently. Perfect for businesses serving customers in multiple languages.",
+              "start_index": 87,
+              "end_index": 87,
+              "nodes": []
+            },
+            {
+              "node_id": "0016",
+              "title": "Cost Savings",
+              "summary": "Automates up to 80% of your support queries and repetitive tasks. Allows you to operate with smaller teams and low operational costs.",
+              "start_index": 90,
+              "end_index": 90,
+              "nodes": []
+            },
+            {
+              "node_id": "0017",
+              "title": "Works Across Multiple Channels",
+              "summary": "Use the same chatbot across your website, WhatsApp, and apps. Give consistent, AI-powered responses on all channels managed from a single dashboard.",
+              "start_index": 93,
+              "end_index": 93,
+              "nodes": []
+            },
+            {
+              "node_id": "0018",
+              "title": "A Chatbot That Improves Over Time",
+              "summary": "Track answered and unanswered requests in real time. Train the chatbot for all similar queries in the future.",
+              "start_index": 96,
+              "end_index": 96,
+              "nodes": []
+            },
+            {
+              "node_id": "0019",
+              "title": "Workflows to Automate Your Repetitive Tasks",
+              "summary": "Let AI understand the intent behind any user query. Perform tasks on your behalf using APIs instead of escalating everything to you.",
+              "start_index": 99,
+              "end_index": 99,
+              "nodes": []
+            },
+            {
+              "node_id": "0020",
+              "title": "Improved Customer Experience",
+              "summary": "Provides human-like responses and instant solutions. Your customers don't have to raise tickets or wait long to get their issues resolved.",
+              "start_index": 102,
+              "end_index": 102,
+              "nodes": []
+            },
+            {
+              "node_id": "0021",
+              "title": "Send Images, PDFs, and Videos Without Human Intervention",
+              "summary": "Add the relevant images, PDFs, and Videos to your knowledge base. Let the AI send Brochures, Product Catalogs, PDFs, and more when your users ask.",
+              "start_index": 105,
+              "end_index": 105,
+              "nodes": []
+            },
+            {
+              "node_id": "0022",
+              "title": "Seamless Integration",
+              "summary": "Seamlessly integrates with your Shopify or WooCommerce. Qualifies leads and sends them to your CRM or Google Sheet.",
+              "start_index": 108,
+              "end_index": 108,
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "node_id": "0024",
+          "title": "Launch in 5 Minutes",
+          "summary": "Setting up your custom AI chatbot is now incredibly easy. No coding or APIs. Just Plug and Play. 1. Sign up - Go to http://app.joyz.ai/ and login using your Gmail account. 2. Train the chatbot - With information about your business added from your website, PDF, or manually. 3. Go Live - Go live by adding one line of code for website, signing up for WhatsApp API, or scanning a QR code for WhatsApp.",
+          "start_index": 111,
+          "end_index": 111,
+          "nodes": []
+        },
+        {
+          "node_id": "0032",
+          "title": "Industry-wise Use Cases",
+          "summary": "Tailored solutions for your business:",
+          "start_index": 119,
+          "end_index": 141,
+          "nodes": [
+            {
+              "node_id": "0025",
+              "title": "E-commerce",
+              "summary": "Enable orders via WhatsApp or website, answer product and delivery questions, and handle customer queries 24/7.",
+              "start_index": 123,
+              "end_index": 123,
+              "nodes": []
+            },
+            {
+              "node_id": "0026",
+              "title": "SaaS",
+              "summary": "Let the chatbot share license details, manage subscriptions, and handle billing tasks.",
+              "start_index": 126,
+              "end_index": 126,
+              "nodes": []
+            },
+            {
+              "node_id": "0027",
+              "title": "Travel",
+              "summary": "Provide live booking, hotel and trip details including confirmation and amenities.",
+              "start_index": 129,
+              "end_index": 129,
+              "nodes": []
+            },
+            {
+              "node_id": "0028",
+              "title": "Healthcare",
+              "summary": "Answer common questions by patients. Schedule appointments, send reminders, and send prescriptions online.",
+              "start_index": 132,
+              "end_index": 132,
+              "nodes": []
+            },
+            {
+              "node_id": "0029",
+              "title": "Education",
+              "summary": "Offer course details, registration, fee payment options, and resource access.",
+              "start_index": 135,
+              "end_index": 135,
+              "nodes": []
+            },
+            {
+              "node_id": "0030",
+              "title": "Logistics",
+              "summary": "Automate order tracking with real-time updates, manage customer contact and delivery details. Finally, escalate to a human when needed.",
+              "start_index": 138,
+              "end_index": 138,
+              "nodes": []
+            },
+            {
+              "node_id": "0031",
+              "title": "Real Estate",
+              "summary": "Automate property inquiries, pricing, and availability. Schedule visits, and qualify leads to send to your CRM.",
+              "start_index": 141,
+              "end_index": 141,
+              "nodes": []
+            }
+          ]
+        },
+        {
+          "node_id": "0033",
+          "title": "Platforms Where You Can Use JoyzAI",
+          "summary": "Seamlessly Integrate and automate across multiple platforms: - Website - Have your AI Agent provide live support over your website 24/7. - WhatsApp - Turn your mobile WhatsApp into a full-fledged AI chatbot that talks like you - WhatsApp API - Connect WhatsApp API, send campaigns, and let JoyzAI handle interested customer queries. - Applications - Train JoyzAI and offer in-app support so customers get help without leaving.",
+          "start_index": 144,
+          "end_index": 144,
+          "nodes": []
+        },
+        {
+          "node_id": "0039",
+          "title": "FAQ",
+          "summary": "FAQ",
+          "start_index": 153,
+          "end_index": 167,
+          "nodes": [
+            {
+              "node_id": "0034",
+              "title": "What is the main purpose of an AI chatbot?",
+              "summary": "The main purpose of this AI chatbot is to automate all the repetitive queries and customer support, improving customer engagement, and delivering real-time assistance to your customers.",
+              "start_index": 155,
+              "end_index": 155,
+              "nodes": []
+            },
+            {
+              "node_id": "0035",
+              "title": "How to create my own AI chatbot?",
+              "summary": "Creating a custom chatbot on JoyzAI is super easy—and you can go live in 5 minutes! Sign up at app.joyz.ai, train your AI chatbot, and go live.",
+              "start_index": 158,
+              "end_index": 158,
+              "nodes": []
+            },
+            {
+              "node_id": "0036",
+              "title": "How much does the AI chatbot cost?",
+              "summary": "JoyzAI offers plans for businesses of all sizes. For every AI conversation, you pay a flat ₹7. All messages within a 24-hour window with one person is considered as one conversation.",
+              "start_index": 161,
+              "end_index": 161,
+              "nodes": []
+            },
+            {
+              "node_id": "0037",
+              "title": "Does JoyzAI support multiple languages?",
+              "summary": "Yes! When the user asks a question, JoyzAI naturally detects the language of the user and responds in the same.",
+              "start_index": 164,
+              "end_index": 164,
+              "nodes": []
+            },
+            {
+              "node_id": "0038",
+              "title": "Can I train JoyzAI with my own business info?",
+              "summary": "Of course. JoyzAI is a custom-built chatbot for your business. You can add info via Website URL, PDF upload, or manual entry. --- © Copyright 2025 Joyz Cloudtech Pvt Ltd - All Rights Reserved Contact: help@joyz.ai | +91-7526016050",
+              "start_index": 167,
+              "end_index": 167,
+              "nodes": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "JoyzAI - Custom AI Chatbot Platform",
+    "wordCount": 1056,
+    "sourceUrl": "/Users/pi/Documents/personal/page index vectorless/pageindex-ts/samples/joyzai-product.md",
+    "documentType": "markdown"
+  },
+  "id": "joyzai-simple",
+  "createdAt": "2026-03-01T14:52:36.498Z",
+  "updatedAt": "2026-03-01T14:52:36.498Z"
+}
